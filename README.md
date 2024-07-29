@@ -4,9 +4,9 @@ In this project, I have implemented a PDF Summarizer web application using the G
 
 ## Features
 
-#### PDF Upload: 
+### PDF Upload: 
 Users can upload one or multiple PDF files.
-#### Question Input: 
+### Question Input: 
 Users can input questions related to the content of the uploaded PDF files.
 ### Text Extraction: 
 The application extracts text from the uploaded PDF files.
